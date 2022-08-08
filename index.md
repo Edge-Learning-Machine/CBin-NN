@@ -17,7 +17,7 @@ Binarization is an extreme quantization technique that is attracting research in
 
 ### CBin-NN 
 
-* We introduce the CBin-NN inference engine. This is an open-source framework for running BNNs on resource-constrained devices, namely Microcontroller units (MCUs). 
+* We introduce the CBin-NN inference engine. CBin-NN is an open-source framework for running BNNs on resource-constrained devices, namely Microcontroller units (MCUs). 
 
 * CBin-NN primarily targets 32-bit Cortex-M devices (ARM). However, the library is written in platform-independent C and can run BNN models on bare-metal devices, so it is intended to be seamlessly portable to most software-programmable edge devices. 
   - The Supported operators are shown in the below Table:
