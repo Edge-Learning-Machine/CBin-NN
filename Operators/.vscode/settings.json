@@ -1,0 +1,19 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "files.associations": {
+        "*.s": "c",
+        "*.asm": "c",
+        "dbscan.h": "c",
+        "limits": "c",
+        "main.h": "c",
+        "stdio.h": "c",
+        "cnn_params.h": "c",
+        "bnn_lce_main.h": "c",
+        "test_image.h": "c",
+        "stdbool.h": "c",
+        "batch_normalization.h": "c",
+        "stdint.h": "c",
+        "cstring": "c",
+        "cbin-nn.h": "c"
+    }
+}
